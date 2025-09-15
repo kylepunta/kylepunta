@@ -38,13 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kylepunta&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kylepunta&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ## 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kyle-purcell)  
 - ✉️ kylepurcell1998@gmail.com  
