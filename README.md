@@ -2,7 +2,7 @@
 
 🎓 3rd Year BSc (Hons) Software Development Student @ SETU Carlow  
 💻 Passionate about Web Development, Problem-Solving, and Building Real-World Applications  
-♟️ Competitive Chess Player (1642 FIDE, aiming for 2000+)  
+♟️ Competitive Chess Player (1839 on chess.com, aiming for 2000+)  
 
 ---
 
