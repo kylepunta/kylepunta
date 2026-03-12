@@ -2,14 +2,13 @@
 
 🎓 3rd Year BSc (Hons) Software Development Student @ SETU Carlow  
 💻 Passionate about Web Development, Problem-Solving, and Building Real-World Applications  
-♟️ Competitive Chess Player (1839 on chess.com, aiming for 2000+)  
+♟️ Competitive Chess Player (1785 FIDE)  
 
 ---
 
 ## 🚀 About Me
 - 🔧 Skilled in **Java, HTML, CSS, JavaScript, React, PHP, and MySQL**  
-- 🌱 Currently diving deeper into **React, Python, and C/C++**  
-- 🎯 Goal: Secure a **software engineering internship** in 2026 and grow into a full-stack developer/software engineer  
+- 🌱 Currently diving deeper into **React, Python, and C/C++**    
 - 🧩 Love solving problems, designing clean systems, and building projects that challenge me  
 - ⚡ Fun fact: I use chess as part of my daily routine to sharpen focus & logic  
 
